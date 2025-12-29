@@ -15,12 +15,19 @@ const Cart = () => {
   const handleCheckout = async () => {
     const stripe = await getStripe();
 
+    // Send only product IDs and quantities to the server
+    // This prevents price manipulation on the client side
+    const cartData = cartItems.map((item) => ({
+      _id: item._id,
+      quantity: item.quantity,
+    }));
+
     const response = await fetch('/api/stripe', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify(cartItems),
+      body: JSON.stringify(cartData),
     });
 
     // Use `status` (Fetch API) and ensure we handle non-JSON error responses.
