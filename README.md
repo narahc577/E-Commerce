@@ -1,25 +1,38 @@
+In this project, you’ll build a production-ready e-commerce platform with a modern UI, smooth animations, a powerful CMS, advanced cart functionality, and complete Stripe payment integration. This is one of the most comprehensive e-commerce projects you’ll find, covering everything needed to build a real-world online store from scratch.
 
-Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+🔥 What You’ll Learn
+⚛️ Advanced React Best Practices
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+Clean and scalable folder & file structure
 
-**Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project that you can currently find on YouTube!
+Effective use of React hooks and refs
 
-In this video, you'll learn:
-- Advanced React Best Practices such as
-    - Folder and file structure, hooks and refs
-- Advanced State Management of the entire application using React Context API
-- Next.js Best Practices such as
-    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and you’ll also learn how to use Next.js as a backend endpoint.
-- You’ll learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
-- And most importantly you’ll learn how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
-- Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
-- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
+Global state management using React Context API
 
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
-![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
-![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
-![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
-![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png)
-![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
+⚡ Next.js Best Practices
+
+File-based routing for scalable navigation
+
+Data fetching with getServerSideProps, getStaticProps, and getStaticPaths
+
+Server-Side Rendering (SSR) and Static Site Generation (SSG) for performance optimization
+
+Using Next.js API routes as backend endpoints
+
+💳 Stripe Payment Integration
+
+Secure payment processing with real transactions
+
+Managing products, checkout sessions, shipping rates, and orders
+
+End-to-end payment flow implementation
+
+🧠 Content Management with Sanity
+
+Dynamic product and homepage content management
+
+Edit and update products instantly without redeploying
+
+Built-in image handling, database, and content storage
+
+A scalable and developer-friendly CMS for modern applications
